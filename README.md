@@ -33,6 +33,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 </details>
+[![Amal Zorba's github stats](https://github-readme-stats.vercel.app/api?username=AmalChandru)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
