@@ -10,10 +10,6 @@
 - 👯 I’m looking to collaborate with other like minded ones .Shoot me 
 - 🥅 2020 Goals: Contribute more to Open Source projects, Learn Harmonica & Spanish.
 - ⚡ Fun fact: I think i am pretty good artist🧑‍🎨, an average cyclist🚴‍♂️,🏏 a better right-handed batsman than a right-arm spinner.
-### Connect with me:
-[<img align="left" alt="amal-chandran-m-v | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="amal-chandran-m-v | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<br/>
 ### Languages and Tools:
 <table>
   <tr>
@@ -127,6 +123,10 @@
 - [Fibonacci Series using Binet Formula](https://www.geeksforgeeks.org/numpy-fibonacci-series-using-binet-formula/)
 - [How to Setup Browsersync for Web Development in Ubuntu?](https://www.geeksforgeeks.org/how-to-setup-browsersync-for-web-development-in-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
+### Connect with me:
+[<img align="left" alt="amal-chandran-m-v | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amal-chandran-m-v | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<br/>
 
 </details>
 <!----<a href="https://github.com/anuraghazra/github-readme-stats">
