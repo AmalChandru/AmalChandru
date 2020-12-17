@@ -1,4 +1,4 @@
-### Hi there, I'am Amal Chandran M V - aka AmalZorba 💆‍👋
+### Hi, I'am AmalZorba 💆‍👋
 [![Linkedin](https://img.shields.io/badge/CatchMe%40-Linkedin-blue)](https://www.linkedin.com/in/amal-chandran-m-v-14a964179/)
 [![Quora](https://img.shields.io/badge/CatchMe%40-Quora-green)](https://www.quora.com/profile/Amal-Chandran-32)
 [![Twitter](https://img.shields.io/badge/Twitter-CurrentlyNotAvailable%F0%9F%98%82-red)](https://medium.com/swlh/why-you-should-quit-twitter-9b93396def2d)
