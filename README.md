@@ -7,7 +7,7 @@
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
 - 🔭 I just completed this project : (https://www.spadeems.org/city/bhubaneswar/index.html)
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate with other like minded ones .Shoot me @Linkedin
+- 👯 I’m looking to collaborate with other like minded ones .Shoot me 
 - 🥅 2020 Goals: Contribute more to Open Source projects, Learn Harmonica & Spanish.
 - ⚡ Fun fact: I think i am pretty good artist🧑‍🎨, an average cyclist🚴‍♂️,🏏 a better right-handed batsman than a right-arm spinner.
 ### Connect with me:
@@ -15,14 +15,109 @@
 [<img align="left" alt="amal-chandran-m-v | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br/>
 ### Languages and Tools:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
+      </a>
+      <br>VScode
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/numpy/numpy/blob/master/branding/logo/logomark/numpylogoicon.svg" width="48" height="48" alt="Numpy" />
+      </a>
+      <br>Numpy
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/opencv/opencv/blob/master/samples/data/opencv-logo-white.png" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="48" height="48" alt="Slack" />
+      </a>
+      <br>Slack
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+  </tr>
+</table>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
