@@ -7,7 +7,7 @@
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
 - 🔭 I just completed this project : (https://www.spadeems.org/city/bhubaneswar/index.html)
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate with other like minded ones .Shoot me 
+- 👯 I’m looking to collaborate with other like minded ones .
 - 🥅 2020 Goals: Contribute more to Open Source projects, Learn Harmonica & Spanish.
 - ⚡ Fun fact: I think i am pretty good artist🧑‍🎨, an average cyclist🚴‍♂️,🏏 a better right-handed batsman than a right-arm spinner.
 ### Languages and Tools:
