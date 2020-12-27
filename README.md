@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-CurrentlyNotAvailable%F0%9F%98%82-red)](https://medium.com/swlh/why-you-should-quit-twitter-9b93396def2d)
 [![Instagram](https://img.shields.io/badge/Instagram-CurrentlyNotAvailable%F0%9F%98%82-red)](https://www.simplyconvivial.com/2020/why-i-quit-instagram/)
 ---
-## Rationalist, Self-Taught Programmer, React Dev, Technical Content Writer & Ofcourse an Introvert
+## Rationalist, Self-Taught Programmer, React Dev, Technical Content Writer 
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
 - 🔭 I just completed this project : (https://www.spadeems.org/city/bhubaneswar/index.html)
 - 🌱 I’m currently learning React.
