@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-CurrentlyNotAvailable%F0%9F%98%82-red)](https://medium.com/swlh/why-you-should-quit-twitter-9b93396def2d)
 [![Instagram](https://img.shields.io/badge/Instagram-CurrentlyNotAvailable%F0%9F%98%82-red)](https://www.simplyconvivial.com/2020/why-i-quit-instagram/)
 ---
-## Recommendations for January 2021
+#### Recommendations for January 2021
 <table>
   <tr>
     <td align="center" width="50">
@@ -36,14 +36,14 @@
   </tr>
   </table>
   
-## Rationalist, Self-Taught Programmer, Technical Content Writer 
+#### Rationalist, Self-Taught Programmer, Technical Content Writer 
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
 - 🔭 I just completed this project : (https://www.spadeems.org/city/bhubaneswar/index.html)
 - 🌱 I’m currently learning MongoDB.
 - 👯 I’m looking to collaborate with opensource projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects, Learn Harmonica & Spanish.
 - ⚡ Fun fact: I think i am pretty good artist🧑‍🎨, an average cyclist🚴‍♂️,🏏 a better right-handed batsman than a right-arm spinner.
-### Languages and Tools:
+#### Languages and Tools:
 <table>
   <tr>
     <td align="center" width="96">
@@ -147,7 +147,7 @@
   </tr>
 </table>
 
-### 📕 Latest Blog Posts
+#### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GTK+ 3 Archives Geeks For Geeks](https://www.geeksforgeeks.org/tag/python-gtk/
@@ -156,7 +156,7 @@
 - [Fibonacci Series using Binet Formula](https://www.geeksforgeeks.org/numpy-fibonacci-series-using-binet-formula/)
 - [How to Setup Browsersync for Web Development in Ubuntu?](https://www.geeksforgeeks.org/how-to-setup-browsersync-for-web-development-in-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
-### Connect with me:
+#### Connect with me:
 [<img align="left" alt="amal-chandran-m-v | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="amal-chandran-m-v | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br/>
