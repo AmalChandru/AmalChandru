@@ -10,13 +10,13 @@
     <td align="center" width="50">
       <br> <strong>Books</strong>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="150">
       <br>Norwegian wood by Haruki Murakami
     </td>
-    <td align="center" width="140">
+    <td align="center" width="150">
       <br>Man’s Search For Meaning by Viktor Frankl
     </td>
-    <td align="center" width="140">
+    <td align="center" width="150">
       <br>The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
     </td>
   </tr>
@@ -24,13 +24,13 @@
     <td align="center" width="50">
       <br> <strong>Films</strong>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="150">
       <br> 303 - German-Comedy/Drama/Romance
     </td>
-    <td align="center" width="140">
+    <td align="center" width="150">
       <br> A Separation - Iranian-Drama/Mystery
     </td>
-    <td align="center" width="140">
+    <td align="center" width="150">
       <br> Schindler's List- American-War/Drama 
     </td>
   </tr>
