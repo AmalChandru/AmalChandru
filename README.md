@@ -11,7 +11,7 @@
       <br> <strong>📚 Books</strong>
     </td>
     <td align="center" width="200">
-      <br>Norwegian wood by Haruki Murakami
+      <br>✅Norwegian wood by Haruki Murakami
     </td>
     <td align="center" width="200">
       <br>Man’s Search For Meaning by Viktor Frankl
