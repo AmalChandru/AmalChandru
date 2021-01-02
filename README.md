@@ -4,6 +4,38 @@
 [![Twitter](https://img.shields.io/badge/Twitter-CurrentlyNotAvailable%F0%9F%98%82-red)](https://medium.com/swlh/why-you-should-quit-twitter-9b93396def2d)
 [![Instagram](https://img.shields.io/badge/Instagram-CurrentlyNotAvailable%F0%9F%98%82-red)](https://www.simplyconvivial.com/2020/why-i-quit-instagram/)
 ---
+## Recommendations for January 2021
+<table>
+  <tr>
+    <td align="center" width="50">
+      <br> <strong>Books</strong>
+    </td>
+    <td align="center" width="160">
+      <br>Norwegian wood by Haruki Murakami
+    </td>
+    <td align="center" width="160">
+      <br>Man’s Search For Meaning by Viktor Frankl
+    </td>
+    <td align="center" width="160">
+      <br>The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50">
+      <br> <strong>Films</strong>
+    </td>
+    <td align="center" width="160">
+      <br> [303](https://www.imdb.com/title/tt5451118/)
+    </td>
+    <td align="center" width="160">
+      <br> [A Separation](https://en.wikipedia.org/wiki/A_Separation)
+    </td>
+    <td align="center" width="160">
+      <br> [Schindler's List](https://en.wikipedia.org/wiki/Schindler%27s_List)
+    </td>
+  </tr>
+  </table>
+  
 ## Rationalist, Self-Taught Programmer, Technical Content Writer 
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
 - 🔭 I just completed this project : (https://www.spadeems.org/city/bhubaneswar/index.html)
