@@ -35,8 +35,7 @@
     </td>
   </tr>
   </table>
-  `My Best Friend is a person who will give me a book I have not read.`
-  So, feel free to add more to the tiny list above.
+  "My Best Friend is a person who will give me a book I have not read"- Lincoln. So, feel free to add more to the tiny list above.
   
 #### Rationalist, Self-Taught Programmer, Technical Content Writer 
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
