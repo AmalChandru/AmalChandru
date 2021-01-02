@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center" width="50">
-      <br> <strong>Books</strong>
+      <br> <strong>📚 Books</strong>
     </td>
     <td align="center" width="150">
       <br>Norwegian wood by Haruki Murakami
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center" width="50">
-      <br> <strong>Films</strong>
+      <br> <strong>📽️ Films</strong>
     </td>
     <td align="center" width="150">
       <br> 303 - German-Comedy/Drama/Romance
