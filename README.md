@@ -10,13 +10,13 @@
     <td align="center" width="50">
       <br> <strong>Books</strong>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="100">
       <br>Norwegian wood by Haruki Murakami
     </td>
-    <td align="center" width="160">
+    <td align="center" width="100">
       <br>Man’s Search For Meaning by Viktor Frankl
     </td>
-    <td align="center" width="160">
+    <td align="center" width="100">
       <br>The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
     </td>
   </tr>
@@ -24,13 +24,13 @@
     <td align="center" width="50">
       <br> <strong>Films</strong>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="100">
       <br> [303](https://www.imdb.com/title/tt5451118/)
     </td>
-    <td align="center" width="160">
+    <td align="center" width="100">
       <br> [A Separation](https://en.wikipedia.org/wiki/A_Separation)
     </td>
-    <td align="center" width="160">
+    <td align="center" width="100">
       <br> [Schindler's List](https://en.wikipedia.org/wiki/Schindler%27s_List)
     </td>
   </tr>
