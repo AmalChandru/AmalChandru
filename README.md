@@ -17,7 +17,7 @@
       <br>Man’s Search For Meaning by Viktor Frankl
     </td>
     <td align="center" width="200">
-      <br>The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
+      <br>☂️The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
     </td>
   </tr>
   <tr>
@@ -35,6 +35,8 @@
     </td>
   </tr>
   </table>
+  ✅ - Completed
+  ☂️ - Ongoing
   "My Best Friend is a person who will give me a book I have not read"- Lincoln. So, feel free to add more to the tiny list above.
   
 #### Rationalist, Self-Taught Programmer, Technical Content Writer 
