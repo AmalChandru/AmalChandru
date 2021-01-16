@@ -148,6 +148,26 @@
       <br>Github
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Octave
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://en.wikipedia.org/wiki/Arduino#/media/File:Arduino_Logo.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Arduino
+    </td>
+  </tr>
 </table>
 
 #### 📕 Latest Blog Posts
