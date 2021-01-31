@@ -31,7 +31,7 @@
       <br> A Separation - Iranian-Drama/Mystery
     </td>
     <td align="center" width="200">
-      <br> Schindler's List- American-War/Drama 
+      <br> ✅Schindler's List- American-War/Drama 
     </td>
   </tr>
   </table>
