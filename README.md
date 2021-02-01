@@ -11,13 +11,13 @@
       <br> <strong>📚 Books</strong>
     </td>
     <td align="center" width="200">
-      <br>✅Norwegian wood by Haruki Murakami
+      <br>The Nine-Chambered Heart by Janice Pariat
     </td>
     <td align="center" width="200">
-      <br>Man’s Search For Meaning by Viktor Frankl
+      <br>Caste by Isabel Wilkerson
     </td>
     <td align="center" width="200">
-      <br>☂️The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
+      <br>☂️Sea of Poppies by Amitav Ghosh
     </td>
   </tr>
   <tr>
@@ -25,13 +25,13 @@
       <br> <strong>📽️ Films</strong>
     </td>
     <td align="center" width="200">
-      <br>✅303 - German-Comedy/Drama/Romance
+      <br>Aparajito - Bengali/Drama 
     </td>
     <td align="center" width="200">
-      <br> A Separation - Iranian-Drama/Mystery
+      <br> Perfect Strangers - Italy/Comedy/Drama
     </td>
     <td align="center" width="200">
-      <br> ✅Schindler's List- American-War/Drama 
+      <br> Pan's Labyrinth - Spanish/Fantasy/War 
     </td>
   </tr>
   </table>
