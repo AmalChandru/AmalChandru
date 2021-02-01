@@ -38,6 +38,9 @@
   ✅ - Completed <br>
   ☂️ - Ongoing <br>
   "My Best Friend is a person who will give me a book I have not read"- Lincoln. So, feel free to add more to the tiny list above.
+  <br>
+ Previous Recommendations- https://github.com/AmalChandru/AmalChandru/blob/main/recommendation.md
+  
   
 #### Rationalist, Self-Taught Programmer, Technical Content Writer 
 - 🔭 Currently working on [zstream](https://www.zstream.in/)
