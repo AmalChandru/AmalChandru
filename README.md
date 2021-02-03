@@ -17,7 +17,7 @@
       <br>Caste by Isabel Wilkerson
     </td>
     <td align="center" width="200">
-      <br>☂️Sea of Poppies by Amitav Ghosh
+      <br>Sea of Poppies by Amitav Ghosh
     </td>
   </tr>
   <tr>
