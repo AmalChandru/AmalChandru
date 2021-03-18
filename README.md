@@ -25,7 +25,7 @@
       <br> <strong>📽️ Films</strong>
     </td>
     <td align="center" width="200">
-      <br>Aparajito - Bengali/Drama 
+      <br>Her - American science-fiction romantic drama  
     </td>
     <td align="center" width="200">
       <br> Perfect Strangers - Italy/Comedy/Drama
