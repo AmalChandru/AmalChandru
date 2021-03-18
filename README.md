@@ -11,7 +11,7 @@
       <br> <strong>📚 Books</strong>
     </td>
     <td align="center" width="200">
-      <br>The Nine-Chambered Heart by Janice Pariat
+      <br>Crime and Punishment by Fyodor Dostoyevsky
     </td>
     <td align="center" width="200">
       <br>Caste by Isabel Wilkerson
