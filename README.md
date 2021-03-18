@@ -110,7 +110,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/numpy/numpy/blob/master/branding/logo/logomark/numpylogoicon.svg" width="48" height="48" alt="Numpy" />
+        <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png" width="48" height="48" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
