@@ -14,7 +14,7 @@
       <br>Crime and Punishment by Fyodor Dostoyevsky
     </td>
     <td align="center" width="200">
-      <br>Caste by Isabel Wilkerson
+      <br>The Immortal Life of Henrietta Lacks by Rebecca Skloot
     </td>
     <td align="center" width="200">
       <br>Sea of Poppies by Amitav Ghosh
