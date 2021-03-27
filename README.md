@@ -17,7 +17,7 @@
       <br>The Immortal Life of Henrietta Lacks by Rebecca Skloot
     </td>
     <td align="center" width="200">
-      <br>Animal Farm by George Orwell
+      <br>☂️ Animal Farm by George Orwell
     </td>
   </tr>
   <tr>
