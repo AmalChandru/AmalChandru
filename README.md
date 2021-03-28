@@ -31,7 +31,7 @@
       <br> ✅ Seven Samurai - Japanese epic samurai drama 
     </td>
     <td align="center" width="200">
-      <br> Léon: The Professional - French action-thriller
+      <br> ✅ Léon: The Professional - French action-thriller
     </td>
   </tr>
   </table>
