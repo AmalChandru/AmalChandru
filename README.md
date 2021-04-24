@@ -14,10 +14,10 @@
       <br>☂️ Crime and Punishment by Fyodor Dostoyevsky
     </td>
     <td align="center" width="200">
-      <br>The Immortal Life of Henrietta Lacks by Rebecca Skloot
+      <br>✅ The Immortal Life of Henrietta Lacks by Rebecca Skloot
     </td>
     <td align="center" width="200">
-      <br>☂️ Animal Farm by George Orwell
+      <br>✅ Animal Farm by George Orwell
     </td>
   </tr>
   <tr>
@@ -25,17 +25,17 @@
       <br> <strong>📽️ Films</strong>
     </td>
     <td align="center" width="200">
-      <br>Her - American science-fiction romantic drama  
+      <br>✅ Her - American science-fiction romantic drama  
     </td>
     <td align="center" width="200">
-      <br> The Perks of Being a Wallflower English-Young adult-Epistolary
+      <br>✅ The Perks of Being a Wallflower English-Young adult-Epistolary
     </td>
     <td align="center" width="200">
-      <br> Water Indian-Drama
+      <br>✅ Water Indian-Drama
     </td>
   </tr>
   </table>
-  ✅ - Completed <br>
+   - Completed <br>
   ☂️ - Ongoing <br>
   Some of them which are not completed yet are inherited from March Recommendations 
 
