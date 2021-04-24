@@ -35,7 +35,7 @@
     </td>
   </tr>
   </table>
-   - Completed <br>
+  ✅- Completed <br>
   ☂️ - Ongoing <br>
   Some of them which are not completed yet are inherited from March Recommendations 
 
