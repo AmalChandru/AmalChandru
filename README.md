@@ -30,7 +30,7 @@
     </td>
   </tr>
   </table>
-  ✅- Completed <br> ☂️ - Ongoing <br>
+  ✅- Completed , ☂️ - Ongoing <br>
 Previous Recommendations- https://github.com/AmalChandru/AmalChandru/blob/main/recommendation.md
 
 #### Languages and Tools:
