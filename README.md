@@ -33,7 +33,6 @@
   </table>
   ✅- Completed <br>
   ☂️ - Ongoing <br>
-  Some of them which are not completed yet are inherited from March Recommendations 
 
  Previous Recommendations- https://github.com/AmalChandru/AmalChandru/blob/main/recommendation.md
 #### Languages and Tools:
