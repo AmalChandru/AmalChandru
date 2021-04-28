@@ -36,15 +36,6 @@
   Some of them which are not completed yet are inherited from March Recommendations 
 
  Previous Recommendations- https://github.com/AmalChandru/AmalChandru/blob/main/recommendation.md
-  
-  
-#### Rationalist, Self-Taught Programmer, Technical Content Writer 
-- 🔭 Currently working on [zstream](https://www.zstream.in/)
-- 🔭 I just completed this project : (https://www.spadeems.org/city/bhubaneswar/index.html)
-- 🌱 I’m currently learning PostgreSQL & Linux Kernal Development.
-- 👯 I’m looking to collaborate with opensource projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects, Learn Harmonica & Spanish.
-- ⚡ Fun fact: I think i am pretty good artist🧑‍🎨, an average cyclist🚴‍♂️,🏏 a better right-handed batsman than a right-arm spinner.
 #### Languages and Tools:
 <table>
   <tr>
