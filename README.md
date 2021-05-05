@@ -1,18 +1,18 @@
 ### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### Recommendations for April 2021
+#### Recommendations for May 2021
 <table>
   <tr>
     <td align="center" width="50">
       <br> <strong>📚 Books</strong>
     </td>
     <td align="center" width="200">
-      <br>☂️ Crime and Punishment by Fyodor Dostoyevsky
+      <br>The Medium is the Massage by Marshall McLuhan, Quentin Fiore, Jerome Agel
     </td>
     <td align="center" width="200">
-      <br>✅ The Immortal Life of Henrietta Lacks by Rebecca Skloot
+      <br>To Kill a Mockingbird by Harper Lee. 
     </td>
     <td align="center" width="200">
-      <br>✅ Animal Farm by George Orwell
+      <br>The Hobbit by JRR
     </td>
   </tr>
   <tr>
@@ -20,13 +20,13 @@
       <br> <strong>📽️ Films</strong>
     </td>
     <td align="center" width="200">
-      <br>✅ Her - American science-fiction romantic drama  
+      <br>The Grand Budapest Hotel (2014) - Adventure, Comedy, Crime 
     </td>
     <td align="center" width="200">
-      <br>✅ The Perks of Being a Wallflower English-Young adult-Epistolary
+      <br>Incendies (2010) - Drama, Mystery, War
     </td>
     <td align="center" width="200">
-      <br>✅ Water Indian-Drama
+      <br>The Skin I Live In (2011) - Drama, Horror, Thriller 
     </td>
   </tr>
   </table>
