@@ -6,7 +6,7 @@
       <br> <strong>📚 Books</strong>
     </td>
     <td align="center" width="200">
-      <br> ☂️ The Medium is the Massage by Marshall McLuhan, Quentin Fiore, Jerome Agel
+      <br> ✅ The Medium is the Massage by Marshall McLuhan, Quentin Fiore, Jerome Agel
     </td>
     <td align="center" width="200">
       <br>To Kill a Mockingbird by Harper Lee. 
