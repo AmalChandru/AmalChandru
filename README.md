@@ -30,7 +30,6 @@
     </td>
   </tr>
   </table>
-[Previous Recommendations](https://github.com/AmalChandru/AmalChandru/blob/main/recommendation.md)
 
 #### Languages and Tools:
 <table>
