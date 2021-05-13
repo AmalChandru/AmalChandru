@@ -12,7 +12,7 @@
       <br>To Kill a Mockingbird by Harper Lee. 
     </td>
     <td align="center" width="200">
-      <br> ☂️ The Hobbit by JRR
+      <br> ☂️The Hobbit by JRR
     </td>
   </tr>
   <tr>
@@ -30,7 +30,6 @@
     </td>
   </tr>
   </table>
-  ✅- Completed , ☂️ - Ongoing <br>
 Previous Recommendations- https://github.com/AmalChandru/AmalChandru/blob/main/recommendation.md
 
 #### Languages and Tools:
