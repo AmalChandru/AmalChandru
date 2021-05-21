@@ -1,5 +1,5 @@
 ### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### Recommendations for May 2021
+#### May 2021
 <table>
   <tr>
     <td align="center" width="50">
