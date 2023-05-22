@@ -1,3 +1,3 @@
 
 
-![](https://tenor.com/view/interstellar-edurance-black-hole-blackhole-gif-19755562)
+![](https://media.tenor.com/rl7x24bxaRsAAAAd/interstellar-edurance.gif)
